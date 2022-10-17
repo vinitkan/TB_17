@@ -7,4 +7,9 @@ public class Demo {
 		 System.out.println("complete procces");
 		
 	}
+		  public void m1()
+		  {
+			  System.out.println("M1 =========");
+		  }
+	
 }
